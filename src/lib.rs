@@ -9,7 +9,7 @@
 //! good thing since it promotes the practice of
 //! [_composition over inheritance_](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 //! in Rust programs. Despite all the benefits of composition, Rust programmers
-//! have to write trivial [fowarding methods](https://en.wikipedia.org/wiki/Forwarding_(object-oriented_programming),
+//! have to write trivial [fowarding methods](https://en.wikipedia.org/wiki/Forwarding_(object-oriented_programming)),
 //! which is a tedious task, especially when you have to write many of them.
 //!
 //! To address this pain point of using composition in Rust, the crate provides a convenient
