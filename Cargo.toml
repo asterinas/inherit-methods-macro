@@ -3,6 +3,10 @@ name = "inherit-methods-macro"
 version = "0.1.0"
 authors = ["Tate, Hongliang Tian <tate.thl@antgroup.com>"]
 edition = "2021"
+description = "Inherit methods from a field automatically (via procedural macros)"
+license-file = "LICENSE"
+readme = "README.md"
+repository = "https://github.com/asterinas/inherit-methods-macro"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
